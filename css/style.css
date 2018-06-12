@@ -1,3 +1,61 @@
 body {
+	background: pink;
     text-align: center;
 }
+ul{
+	list-style-type: none;
+	margin: 5px;
+	padding: 3px;
+}
+aside{
+	float: Left;
+}
+
+body {
+    text-align: center;
+}
+div {
+	font-family: Arial;
+	font-size: 24pt;
+}
+.hearts {
+
+	display: inline;
+}
+.hidden {
+visibility: hidden;
+}
+.btn {
+  background: #fcfcfc;
+  background-image: -webkit-linear-gradient(top, #fcfcfc, #a52bb8);
+  background-image: -moz-linear-gradient(top, #fcfcfc, #a52bb8);
+  background-image: -ms-linear-gradient(top, #fcfcfc, #a52bb8);
+  background-image: -o-linear-gradient(top, #fcfcfc, #a52bb8);
+  background-image: linear-gradient(to bottom, #fcfcfc, #a52bb8);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ec3cfc;
+  background-image: -webkit-linear-gradient(top, #ec3cfc, #d93434);
+  background-image: -moz-linear-gradient(top, #ec3cfc, #d93434);
+  background-image: -ms-linear-gradient(top, #ec3cfc, #d93434);
+  background-image: -o-linear-gradient(top, #ec3cfc, #d93434);
+  background-image: linear-gradient(to bottom, #ec3cfc, #d93434);
+  text-decoration: none;
+}
+          .shake{ 
+      -webkit-transform: rotateY(150deg); 
+            
+            /* Safari */
+            transform: rotateY(150deg); 
+            
+            /* Standard syntax */ 
+         }
