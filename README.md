@@ -1,11 +1,14 @@
 # project4
 #frogger arcade game 
+INSTRUCTIONS:
+-download or clone the files
+-open the index.html file in your browser
+-play !
 
-Is an practise of my Udacity nanodegree 
-Without any gamer experience I tried the best I can following as best as I can the projectspecification.
 
 
-The game functions correctly and runs error free
+
+IMPORTANT REQUIEREMENTS FOR THE GAME
 
 - Player can not move off screen
 - Vehicles cross the screen
@@ -25,3 +28,7 @@ mylittlehelpers :
 - https://www.w3schools.com/graphics/game_canvas.asp
 -  http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html
  and a lot of help of my slackbodys and colegue students THANKS! 
+
+
+Is an practise of my Udacity nanodegree 
+Without any gamer experience I tried the best I can, following as best as I can the projectspecification.
